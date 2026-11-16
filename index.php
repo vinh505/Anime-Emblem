@@ -12,7 +12,7 @@
 <div id="landingScreen" class="landing-screen">
   <div class="landing-backdrop"></div>
   <div class="landing-content">
-    <div class="landing-badge">TACTICAL JRPG & GACHA</div>
+    <div class="landing-badge">ABCCCC</div>
     <div class="landing-logo-wrap">
       <img src="img/logo.png" alt="Anime Emblem Logo" class="landing-logo-img">
     </div>
